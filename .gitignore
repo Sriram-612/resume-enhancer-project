@@ -1,0 +1,14 @@
+node_modules/ 
+.env 
+*.log 
+dist/ 
+2023503519.zip 
+node_modules/ 
+venv/ 
+compile/ 
+*.zip 
+node_modules/ 
+venv/ 
+*.zip 
+__pycache__/ 
+.DS_Store 
